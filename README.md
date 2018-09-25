@@ -12,7 +12,7 @@ Add the InputManager.cs to your Assets folder.
 
 ```C#
   ...
-  public int playerNumber
+  public int playerNumber;
   InputManager manager;
   
   
