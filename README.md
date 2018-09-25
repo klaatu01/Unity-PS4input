@@ -2,13 +2,13 @@
 
 Basic DS4 controller input for Unity.
 
-#Installation
+# Installation
 
-Replace your YourProject/ProjectSettings/InputManager.asset with the InputManager.asset located in this repo. *Be sure to back up your input settings* 
+Replace your YourProject/ProjectSettings/InputManager.asset with the InputManager.asset located in this repo. **Be sure to back up your InputManager.asset**
 
 Add the InputManager.cs to your Assets folder.
 
-#Usage
+# Usage
 
 ```C#
   ...
